@@ -1,18 +1,16 @@
 import art
 import clearpy
 
-
 running = True
 
 persons_list = []
 
-def list_people(name, bid):
-    person_dictionary = {}
 
-    person_dictionary["name"] = name
-    person_dictionary["bid"] = bid
+def list_people(bidder_name, bid_amount):
+    person_dictionary = {"name": bidder_name, "bid": bid_amount}
 
     persons_list.append(person_dictionary)
+
 
 while running:
     print(art.logo)
@@ -29,7 +27,6 @@ while running:
     else:
         clearpy.clear()
 
-
 highest_bid = persons_list[0]["bid"]
 highest_bidder = persons_list[0]
 
@@ -38,7 +35,6 @@ for person in persons_list:
     if person["bid"] >= highest_bid:
         highest_bid = person["bid"]
         highest_bidder = person
-
 
 highest_bidder_name = highest_bidder["name"]
 highest_bidder_bid = highest_bidder["bid"]
