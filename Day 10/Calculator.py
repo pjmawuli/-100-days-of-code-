@@ -31,14 +31,14 @@ operations = {
 def calculator():
     active = True
 
-    num1 = int(input("Enter the first number: "))
+    num1 = float(input("Enter the first number: "))
 
     while active:
         for symbol in operations:
             print(symbol)
         operation_symbol = input("Pick an operation from the line above: ")
 
-        num2 = int(input("Enter another number: "))
+        num2 = float(input("Enter another number: "))
 
         calculator_function = operations[operation_symbol]
         num3 = calculator_function(num1, num2)
