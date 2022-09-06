@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T21:07:59.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lYDcxkAQBsacLHo88dPi" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-06T21:15:11.891Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_PmwzA2uyk3EAxPEkX0e" version="20.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1773" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F4F1DE" math="0" shadow="0">
       <root>
@@ -82,34 +82,64 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-39" value="Is the dealer&#39;s card equal to 21?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="157.5" y="950" width="125" height="120" as="geometry" />
+          <mxGeometry x="157.5" y="1090" width="125" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-41" value="Stand" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="220" y="900" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-42" value="The Dealer win&#39;s this game" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="365" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="-70" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-44" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="980" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="1120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;labelBackgroundColor=#F4F1DE;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GxRnAlgrmCQHZ2n3QPB-45" target="1GxRnAlgrmCQHZ2n3QPB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1GxRnAlgrmCQHZ2n3QPB-45" value="Is the dealer&#39;s cards more than 21?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="150" y="1158.5" width="140" height="131" as="geometry" />
+        <mxCell id="Nc0fwU55mywo81umapML-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1GxRnAlgrmCQHZ2n3QPB-45" target="Nc0fwU55mywo81umapML-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GxRnAlgrmCQHZ2n3QPB-45" value="Is the dealer&#39;s score more than 21" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="150" y="1298.5" width="140" height="131" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-47" value="Yay!! you win" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="1194" width="120" height="60" as="geometry" />
+          <mxGeometry x="-110" y="1334" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1GxRnAlgrmCQHZ2n3QPB-49" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#393C56;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="1194" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="1334" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nc0fwU55mywo81umapML-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=#F4F1DE;strokeColor=#E07A5F;fontColor=#393C56;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nc0fwU55mywo81umapML-0" target="6FZnAKIlCg1bTSV6HBoM-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Nc0fwU55mywo81umapML-0" value="Deal the player a card" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nc0fwU55mywo81umapML-3" target="Nc0fwU55mywo81umapML-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nc0fwU55mywo81umapML-3" target="Nc0fwU55mywo81umapML-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-3" value="Is the dealer&#39;s score less than or equal to 16?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="1540" width="150" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-5" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1465" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Nc0fwU55mywo81umapML-6" target="1GxRnAlgrmCQHZ2n3QPB-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-6" value="Deal the dealer a card" style="whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="1577.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-8" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="1565" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-9" value="Is the dealer&#39;s score more than the player&#39;s" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="145" y="1770" width="150" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc0fwU55mywo81umapML-11" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1695" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
