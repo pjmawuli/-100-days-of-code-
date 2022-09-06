@@ -21,5 +21,5 @@ def days_in_month(user_year, user_month):
 
 year = int(input("Enter a year: "))
 month = int(input("Enter a month: "))
-days = days_in_month(year, month)
-print(days)
+n_year, n_month = days_in_month(year, month)
+print(n_year)
