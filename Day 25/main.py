@@ -56,6 +56,3 @@ print(data)
 
 # From pandas to csv:
 data.to_csv("students.txt")
-
-import matplotlib
-import nump
