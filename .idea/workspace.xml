@@ -5,7 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d3bf792-bba5-4570-8de8-beda25df859f" name="Changes" comment="Update of a lot of things">
+      <change afterPath="$PROJECT_DIR$/API Notes/Kanye's Quote App/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Notes/Kanye's Quote App/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Notes/Kanye's Quote App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Notes/Sunrise Sunset api/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API Notes/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday Wisher App/birthdays.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday Wisher App/letter_templates/letter_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday Wisher App/letter_templates/letter_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday Wisher App/letter_templates/letter_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday Wisher App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Birthday Wisher App/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator 0.1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 25/228 2018-Central-Park-Squirrel-Census-Squirrel-Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 25/fur_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Hard challenge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Hard challenge/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Hard challenge/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/Hard challenge/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/challenge 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/challenge 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/challenge 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/dict_comp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/lesson 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 26/lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 27/lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 27/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 27/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/NATO/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/NATO/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/NATO/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/NATO/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/challenge2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 30/test_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 33/lesson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/data/french_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/data/words_to_learn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/images/card_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/images/card_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/images/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flash Card App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISS OVERHEAD NOTIFIER/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISS OVERHEAD NOTIFIER/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kanye Quotes App/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kanye Quotes App/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kanye Quotes App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Krobo girls calculator/Sheets/1 ART 1E-C.R.S-DOKU  GIFTY-2021-2022-FIRST.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Krobo girls calculator/Sheets/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Krobo girls calculator/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Krobo girls calculator/string.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Miles KM App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monday Motivational Quotes/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monday Motivational Quotes/quotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NATO Phonetic Alphabets/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NATO Phonetic Alphabets/nato_phonetic_alphabet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/actual_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open Trivia App/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Manager/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Manager/learn_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Manager/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Manager/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Password Manager/password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro App/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pomodoro App/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test folder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/US-STATES-GAME/50_states.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/US-STATES-GAME/blank_states_img.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/US-STATES-GAME/data_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/US-STATES-GAME/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/US-STATES-GAME/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Day 25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code assigment.py" beforeDir="false" afterPath="$PROJECT_DIR$/code assigment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +97,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Setup Script" />
       </list>
     </option>
   </component>
@@ -26,74 +108,39 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DVLisLdKzu04TRA6QGB8dsGhRx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/francispadi/PycharmProjects/-100-days-of-code-/Day 25&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/francispadi/PycharmProjects/-100-days-of-code-/API Notes/Kanye's Quote App&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Day 25" />
-      <recent name="$PROJECT_DIR$/Day 24" />
-      <recent name="$PROJECT_DIR$/Turtle Crossing" />
-      <recent name="$PROJECT_DIR$/Day 11" />
+      <recent name="$PROJECT_DIR$/API Notes/Kanye's Quote App" />
+      <recent name="$PROJECT_DIR$/Birthday Wisher App" />
+      <recent name="$PROJECT_DIR$/Krobo girls calculator/Sheets" />
+      <recent name="$PROJECT_DIR$/Open Trivia App/images" />
+      <recent name="$PROJECT_DIR$/Open Trivia App" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Open Trivia App" />
+      <recent name="$PROJECT_DIR$/Flash Card App/images" />
+      <recent name="$PROJECT_DIR$/Flash Card App" />
+      <recent name="$PROJECT_DIR$/US-STATES-GAME" />
       <recent name="$PROJECT_DIR$/Day 17" />
-      <recent name="$PROJECT_DIR$/Day 16" />
-      <recent name="$PROJECT_DIR$/Day 15/Coffee Machine" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="-100-days-of-code-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Turtle Crossing" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Turtle Crossing/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="-100-days-of-code-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Snake Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Snake Game/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="-100-days-of-code-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,32 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pong" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Open Trivia App" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pong/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="-100-days-of-code-" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Snake Game" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Snake Game/snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Open Trivia App/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,9 +165,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.snake" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +268,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665070101324</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Update of a lot of things">
+      <created>1665070530724</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665070530724</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -260,6 +290,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update of the Blind Auction Code" />
     <MESSAGE value="Update for Calculator.py" />
     <MESSAGE value="Update for python lessons" />
